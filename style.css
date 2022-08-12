@@ -1,0 +1,7 @@
+/* CSS for Webpage */
+.team-area {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    filter: drop-shadow(10px 10px 10px blue);
+  }
